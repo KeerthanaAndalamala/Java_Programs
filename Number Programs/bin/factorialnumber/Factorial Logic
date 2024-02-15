@@ -1,0 +1,16 @@
+Create a first class
+Create a method
+Declare a new variable inside a for loop and store the factorial of a number
+initialize both variable is 1(for (int i=1;i<n;i++))
+Using a for loop calculate a factorial number 
+fact=fact*i;
+Then Print factorial numbers from 1 to n.
+Again create a second class
+Taking a user input from scanner class
+Reading a character and storing in a int type variable
+Using first name calling a method
+Then get the output
+Output:
+   n=5!
+  5*4*3*2*1 = 120
+

@@ -1,0 +1,16 @@
+create a first class
+Then create method
+And Built a logic like 
+Again take a variable and storing a variable n 
+Create a for loop like for(int i=1;i<=n;i++)
+if(i%2==0)
+Then Print Even numbers from 1 to n.
+Again create a second  class
+Creating a object of scanner class
+Taking a user input from scanner class
+Reading a character and storing in a int type variable 
+Using first name calling a method
+Then get the output
+Output:
+   n=10
+   2,4,6,8,10

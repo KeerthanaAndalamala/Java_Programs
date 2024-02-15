@@ -1,0 +1,17 @@
+create a first class
+Create a method and pass the values(a,b)then,
+Use if condition,if(b!=0) then,
+initialize a integer type variable r = a%b
+                 a=b
+                 b=remainder
+Then print the a value 
+Again create a second class
+Taking a user input from scanner class
+Reading a character and storing in a integer type variable
+Using first name calling a method
+Then get the output
+Output:
+  a=4
+  b=8
+  GCD means greatest common divisor so here output is 4
+

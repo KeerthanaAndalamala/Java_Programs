@@ -1,0 +1,14 @@
+create a first class
+Create a method and pass the value(n)then,
+initialize a variable product = 1 then,
+Using for loop inside for loop initialize a variable i  and assign value 1
+product= product*i
+Then print the product
+Again create a second class
+Taking a user input from scanner class
+Reading a character and storing in a integer type variable
+Using first name calling a method
+Then get the output
+Output:
+  n=5
+  100
